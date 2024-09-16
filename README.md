@@ -42,8 +42,6 @@ We have developed a Python script that serves as a foundation for extracting RT 
 
 ## Current Limitations
 
-- The script does not yet map extracted data to OMOP concepts.
-- Integration with existing OMOP tables is not implemented.
 - The full range of RT-specific data is not captured, especially for complex objects like RTPLAN and RTSTRUCT.
 - Data is not loaded into an actual OMOP CDM database structure.
 
