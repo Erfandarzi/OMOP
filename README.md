@@ -1,6 +1,5 @@
 
 
-![complex-radiotherapy-data-model](https://github.com/user-attachments/assets/1fbfc9ae-a830-4bf9-b809-6eaa8796d5e3)
 
 # Radiotherapy Data Integration into OMOP CDM
 
@@ -16,6 +15,7 @@ We have developed a Python script that serves as a foundation for extracting RT 
 2. Extracts relevant information into two main structures: `rt_occurrences` and `rt_features`
 3. Converts these structures into pandas DataFrames
 4. Optionally saves the results to CSV files
+![complex-radiotherapy-data-model](https://github.com/user-attachments/assets/1fbfc9ae-a830-4bf9-b809-6eaa8796d5e3)
 
 ## Project Structure
 
