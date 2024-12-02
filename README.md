@@ -1,7 +1,7 @@
 
 
 
-# Radiotherapy Data Integration into OMOP CDM
+# RADIUM: Radiotherapy Data Integration into OMOP CDM
 
 ## Project Overview
 
