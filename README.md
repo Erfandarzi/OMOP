@@ -1,5 +1,6 @@
 
 
+![radium](./download_3.png)
 
 # RADIUM: Radiotherapy Data Integration into OMOP CDM
 
