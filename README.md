@@ -1,6 +1,6 @@
 
 
-![radium](./download_3.png)
+![radium](https://github.com/Erfandarzi/OMOP/blob/main/download%20(3).png)
 
 # RADIUM: Radiotherapy Data Integration into OMOP CDM
 
